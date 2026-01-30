@@ -3,8 +3,6 @@ spring:
     name: rupia-wallet-service
 server:
   port: 8094
-  servlet:
-    context-path: /api
 
 eureka:
   client:
